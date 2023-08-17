@@ -1,0 +1,68 @@
+<li class="nav-item">
+  <a class="nav-link active" aria-current="page" href="#" style="color: rgb(66, 110, 22);">Liga Española</a>
+</li>
+<li class="nav-item">
+  <a class="nav-link active" aria-current="page" href="#" style="color: rgb(66, 110, 22);">Camisetas</a>
+</li>
+<li class="nav-item">
+  <a class="nav-link active" aria-current="page" href="#" style="color: rgb(66, 110, 22);">Jugadores</a>
+</li>
+<li class="nav-item">
+  <a class="nav-link active" aria-current="page" href="#" style="color: rgb(66, 110, 22);">Entrenadores</a>
+</li>
+
+
+
+
+<form action="https://www.w3schools.com/" method="post">
+
+
+
+
+
+
+  <div class="row">
+    <div class="col">
+      <b><h4 style="color: blueviolet;">Contactanos</h4></b>
+<SPan><img src="multiple.jpg" alt="" height="100px"></SPan><br>
+  <b><label for=""><h6>Dirección:</h6> Carrera 63- Calle 39 #27</label></b><br>
+  <b><label for=""><h6>Correo:</h6> joela_alvarez@soy.sena.edu.co</lavel>
+   </div>
+  </div>
+    <div class="col">
+      <b><h4 style="color: blueviolet;">Descripción</h4></b>
+    </div>
+    <div class="col">
+      <b><h4 style="color: blueviolet;">Creador</h4></b>
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+  <div class="row">
+    <div class="col">
+      <center><form action="/action_page.php">
+        <label for="fname">First name:</label  style="width: 300px;"><br>
+        <input type="text" id="fname" name="fname" value="John"><br>
+        <input type="text" id="lname" name="lname" value="Doe"><br>
+        <form action="/action_page.php">
+        <input type="text" id="fname" name="fname" value="John"><br>
+        <input type="text" id="lname" name="lname" value="Doe"><br><br>
+      </form> </center>
+    </div>
+
+
+
+
+
+    <div class="row align-items-start">
+      <div class="col" id="i4">
+        <b><h4 style="color: rgb(47, 211, 25);">Contactanos</h4></b>
+        <img src="multiple.jpg" alt="" height="100px"><br>
+        <label for=""><h6>Dirección:</h6> <b>Carrera 63- Calle 25 #27</b></label><br>
+        <label for=""><h6>Correo:</h6> <b>joela_alvarez@soy.sena.edu.co</b></label>
